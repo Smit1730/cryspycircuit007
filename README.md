@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cryspycircuit007
+- 👋 Hi, I’m @Smit Shankar
 - 👀 I’m interested in PHP , Python , Android , IOS.
 - 🌱 I’m currently learning PHP , Python , Android , IOS.
 - 💞️ I’m looking to collaborate on this All Platform for Learning and for more Knowleadge and for more skills.
